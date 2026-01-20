@@ -19,7 +19,4 @@ for i in {10..1}; do echo "Self-destruct in $i..."; sleep 1; done
 echo "SYSTEM OVERRIDE Initiating"
 sleep 1
 echo "BOOT ERROR: SYSTEM CORRUPTED"
-' >>~/.lessgo.sh
-history -c
-clear
-
+'
